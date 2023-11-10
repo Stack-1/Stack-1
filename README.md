@@ -102,7 +102,7 @@
 </a> 
 
 <a href="https://anaconda.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="anaconda" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40"/> 
 </a> 
 </p>
 
