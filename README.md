@@ -105,8 +105,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40"/> 
 </a> 
 </p>
-<p>
-  <img width=400 src='https://github-readme-stats.vercel.app/api?username=Stack-1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-  <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Stack-1&theme=vue-dark&hide_border=true' />
-  <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Stack-1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-</p>
+
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=Stack-1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Stack-1&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Stack-1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
