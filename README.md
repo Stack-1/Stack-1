@@ -107,7 +107,7 @@
 </p>
 
 <!-- Stats images using github repo API-->
-<div align='center'>
+<div>
   <img width=50% src='https://github-readme-stats.vercel.app/api?username=Stack-1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
   <img width=50% src='https://github-readme-stats.vercel.app/api/top-langs/?username=Stack-1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </div>
