@@ -108,8 +108,8 @@
 
 <!-- Stats images using github repo API-->
 <div>
-  <img width=70% height="200px" src='https://github-readme-stats.vercel.app/api?username=Stack-1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' /> 
-  <img width=70% height="200px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Stack-1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' /> 
+  <img width=100% height="200px" src='https://github-readme-stats.vercel.app/api?username=Stack-1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' /> 
+  <img width=100% height="200px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Stack-1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' /> 
 </div>
 
 
