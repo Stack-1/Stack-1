@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
-<h3 align="center">A PhD student in Tor Vergata University.</h3>
+<h3 align="center">I'm a PhD student in Tor Vergata University.</h3>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://komarev.com/ghpvc/?username=Stack-1&label=Profile%20views&color=0e75b6&style=flat" alt="Stack-1" /> </p>
 
@@ -35,10 +35,6 @@
 
 <a href="https://www.sping.io/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> 
-</a> 
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
 </a> 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
