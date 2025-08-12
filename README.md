@@ -57,6 +57,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40"/> 
 </a> 
 </p>
+</br>
 
 <!-- Stats images using github repo API-->
 <div>
